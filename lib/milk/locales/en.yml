@@ -1,0 +1,9 @@
+en:
+  formtastic:
+    yes: 'Yes'
+    no: 'No'
+    required: 'Required'
+    buttons:
+      create: 'Create'
+      save: 'Save'
+      submit: 'Submit'

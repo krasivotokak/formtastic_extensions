@@ -1,4 +1,4 @@
-= formtastic-extensions
+= milk
 
 Description goes here.
 

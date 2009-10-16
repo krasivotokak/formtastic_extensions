@@ -1,0 +1,9 @@
+ru:
+  formtastic:
+    yes: 'Да'
+    no: 'Нет'
+    required: 'Обязательно'
+    buttons:
+      create: 'Добавить'
+      save: 'Сохранить'
+      submit: 'Отправить'
