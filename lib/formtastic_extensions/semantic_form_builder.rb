@@ -1,4 +1,4 @@
-module Milk
+module FormtasticExtensions
   class SemanticFormBuilder < Formtastic::SemanticFormBuilder
     @@all_fields_required_by_default = false
     @@i18n_lookups_by_default = true

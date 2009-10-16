@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "formtastic-extensions"
+    gem.name = "formtastic_extensions"
     gem.summary = %Q{additional flexibility for formtastic}
     gem.description = %Q{extension for formtastic, adding tag_list and others}
     gem.email = "rotuka@tokak.ru"
