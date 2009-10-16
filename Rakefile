@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{additional flexibility for formtastic}
     gem.description = %Q{extension for formtastic, adding tag_list and others}
     gem.email = "rotuka@tokak.ru"
-    gem.homepage = "http://github.com/krasivotokak/formtastic-extensions"
+    gem.homepage = "http://github.com/krasivotokak/formtastic_extensions"
     gem.authors = ["Alexander Semyonov"]
     gem.add_development_dependency "thoughtbot-shoulda"
     gem.add_dependency('justinfrench-formtastic', '0.2.4')

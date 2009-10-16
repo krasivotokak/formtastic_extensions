@@ -23,13 +23,18 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "formtastic_extensions.gemspec",
+     "lib/formtastic_extensions.rb",
+     "lib/formtastic_extensions/locales/en.yml",
+     "lib/formtastic_extensions/locales/ru.yml",
+     "lib/formtastic_extensions/semantic_form_builder.rb",
      "milk.gemspec",
      "rails/init.rb",
      "test/formtastic-extensions_test.rb",
      "test/milk_test.rb",
      "test/test_helper.rb"
   ]
-  s.homepage = %q{http://github.com/krasivotokak/formtastic-extensions}
+  s.homepage = %q{http://github.com/krasivotokak/formtastic_extensions}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
