@@ -1,6 +1,6 @@
 require 'validation_reflection'
 require 'formtastic'
-require 'formtasticExtensions/semantic_form_builder'
+require 'formtastic_extensions/semantic_form_builder'
 
 module FormtasticExtensions
   def self.locale_files
